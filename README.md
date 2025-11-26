@@ -152,10 +152,10 @@ Clean code organization and testing
 
 Author
 
-Your Name
+Your Name: PERERA K A H D - IT22603722
 BSc (Hons) in Information Technology – Year 4
-Module: Mobile Application Development (SE4041)
+Module: MADD
 
-✔ License
+License
 
 This project is for academic use.
